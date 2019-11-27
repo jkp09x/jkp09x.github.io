@@ -3,5 +3,5 @@
 
 <head>
   <title>Jigar Patel| Home :: Portfolio</title>
-   <h1>Bharadwaja Gummadi</h1>
+   <h1>Jigar Patel</h1>
 </head>
